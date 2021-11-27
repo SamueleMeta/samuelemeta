@@ -17,7 +17,7 @@ I have recently completed my Master of Science in *Computer Science and Engineer
 * :bear: my first **[`Neural Network`](https://github.com/SamueleMeta/deep-learning)** classified an airplane as a bear
 * :musical_note: I investigated global music preferencies **[`visualizing Spotify data`](https://github.com/SamueleMeta/spotify-hits-analysis)**
 * :fire: &nbsp;my master thesis was about **[`Reinforcement Learning`](https://www.politesi.polimi.it/handle/10589/177324)**
-* :3rd_place_medal: I was part of the team who won the academic leaderboard at the **[`ACM RecSysChallenge 2021`](https://github.com/SamueleMeta/recsys-challenge-2021-twitter)**
+* :1st_place_medal: I was part of the team who won the academic leaderboard at the **[`ACM RecSysChallenge 2021`](https://github.com/SamueleMeta/recsys-challenge-2021-twitter)**
 
 
 ### About me
