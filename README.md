@@ -3,7 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/metasamuele/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:metasamuele@gmail.com)
 
-Currently working on NLP and Anomaly Dectection at **Oracle Labs Zurich**. Recently I completed my Master of Science in *Computer Science and Engineering* at Politecnico di Milano. Over the last few years, I have dedicated my time to learn everything I could about **Machine Learning** and **Data Science**. 
+Currently working on NLP and Anomaly Detection at **Oracle Labs Zurich**. Recently I completed my Master of Science in *Computer Science and Engineering* at Politecnico di Milano. Over the last few years, I have dedicated my time to learn everything I could about **Machine Learning** and **Data Science**. 
 ### Long story short...
 
 * :computer: when I was 16 I created my **first website**
